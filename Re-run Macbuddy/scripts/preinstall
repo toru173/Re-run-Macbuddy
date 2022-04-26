@@ -1,8 +1,8 @@
 #!/bin/sh
 
-FMiP_ENABLED=$(nvram -p | grep fmm-mobileme-token)
+FMM_ENABLED=$(nvram -p | grep fmm-mobileme-token)
 
-if [[ ! -z $FMiP_ENABLED ]]; then
+if [[ ! -z $FMM_ENABLED ]]; then
     exit 1
 fi
 
