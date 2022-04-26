@@ -1,0 +1,9 @@
+#!/bin/sh
+
+FMiP_ENABLED=$(nvram -p | grep fmm-mobileme-token)
+
+if [[ ! -z $FMiP_ENABLED ]]; then
+    exit 1
+fi
+
+exit 0
