@@ -9,4 +9,4 @@ The installer is not signed, and therefore untrusted by macOS. Please follow the
 
 When completing the setup you may need to create an additional user. These can be subsequently removed by following the instructions [on Apple's Website](https://support.apple.com/guide/mac-help/mchlp1557/mac). A future version of this utility may remove the need for this step, if deemed necessary.
 
-This is licensed with [the Unlicensed](https://unlicense.org), but I would still appreciate a shout out or a thank you if this was useful!
+This is licensed with [the Unlicense](https://unlicense.org), but I would still appreciate a shout out or a thank you if this was useful!
