@@ -1,5 +1,5 @@
 #!/bin/sh
 
-rm $3/private/var/db/.AppleSetupDone 2> /dev/null
+rm "$3"/private/var/db/.AppleSetupDone 2> /dev/null
 
 exit 0
